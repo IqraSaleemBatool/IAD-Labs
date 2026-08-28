@@ -1,0 +1,39 @@
+Q1) Consider the Pine Valley Furniture Company database designed and implemented during the previous semester. Try to recall major relations in the database (CUSTOMER_T, ORDER_T, ORDER_LINE_T, and PRODUCT_T).
+
+There is a need to implement a web based solution for above mentioned database. The web based solution must incorporate following functionalities:
+
+i) New Customer Registration
+
+ii) Searching of Products
+
+iii) Products Selection and Order Placement
+
+iv) Product Catalog Update
+
+v) Payment Provision
+
+As a first step design above mentioned (i) to (v) user interfaces using paper and pencil.
+
+Next write appropriate html for creating (i) to (v) user interface prototypes.
+
+Create links for navigation among above pages.
+
+Design a menu using list and styles.
+
+Add help pages for user guidance.
+
+Either use table for layout or may opt for flow based layout.
+
+Test user interface prototypes in browser.
+
+Experiment with style sheets.
+
+Q2) Try to incorporate business intelligence in your project. You may consider following options:
+
+i) Try to transform order processing system into a customer segmentation analysis platform.
+
+ii) How user profiling can be added into basic order processing system?
+
+iii) How targeted marketing can be realized?
+
+iv) Add recommendation system feature in your project.
