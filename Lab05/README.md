@@ -1,0 +1,11 @@
+Problem 1
+Refer to Lab 4, Problem 3. You are required to implement web form for New Customer Registration for Pine Valley Furniture Company. Who will be the user of this web form?  (Develop in Visual Studio. Write the code for registration handler below.) 
+
+Problem 2
+Refer to Lab 4, Problem 3. You are required to implement web form for updating customer data by customers.  (Develop in Visual Studio) 
+
+Problem 3
+Refer to Lab 4, Problem 3. You are required to implement web form for Product Catalog Update.  (Develop in Visual Studio. Write the code for update handler below.) 
+
+Problem 4
+Implement web form for Product Selection and Order Placement. 
