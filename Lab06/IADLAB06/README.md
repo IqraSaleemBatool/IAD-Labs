@@ -1,0 +1,14 @@
+Problem 1) 
+Refer to Lab 1 (Problem 1), Lab 4 (Problems 3 and 4) and Lab 5 (Problems 1 to 4). 
+You are required to design and implement Role Base Access Control mechanism for Pine Valley Furniture Company interfaces developed so far in above mentioned problems.
+
+
+
+(a) As an initial step enhance the schema of PVFC database.
+
+
+(b) Next enhance the solutions for above mentioned problems to take advantage of modified schema and incorporate role based access control for all interfaces.
+
+
+(c) Develop test cases for role based access control?
+
