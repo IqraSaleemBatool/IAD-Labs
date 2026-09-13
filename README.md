@@ -111,7 +111,7 @@ IADProject/
 ##  Author
 
 **Your Name**
-- GitHub: [Iqra BAtool](https://github.com/your-username)
+- GitHub: [@Iqra Batool](https://github.com/your-username)
 - Course: Internet Application Development (IAD)
 
 ---
