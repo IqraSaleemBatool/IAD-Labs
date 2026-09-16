@@ -8,7 +8,7 @@ Problem 3
 Refer to Lab 1 in which paper prototyping and HTML interfaces were developed for Pine Valley Furniture Company. The next task is to convert plain html into web forms in order to realize a web application. The application should incorporate following functionalities: 
 i) New Customer Registration 
 ii) Searching of Products 
-iii) Products Selection and Order Placement 
+iii) Products Selection and Order Placement
 iv) Product Catalog Update 
 v) Payment Provision 
 (Develop in Visual studio and host it on your site). 
